@@ -1,1 +1,1 @@
-worker: node LazyBot
+worker: node NadekoBot
